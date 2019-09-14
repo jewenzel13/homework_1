@@ -3,10 +3,11 @@ Wells Fargo Elevator
 Issues with Current Design:
 •	The buttons are not in a single column, but more in a grid layout
 •	For the middle column buttons, it is unclear if the button to that floor is on the left hand side or right hand side
-•	The organization of the buttons can be confusing based on the layout
+•	The layout of the buttons can be confusing
+•	There is no 1st floor label
 
 Common Uses:
-•	Going to a desired floor that could take longer and harder to get to from taking the stairs
+•	Going to a desired floor that could take longer and harder to get to versus taking the stairs
 •	Transporting heavy loads to desired floor
 •	Taking handicapped people to their desired floor
 
@@ -29,21 +30,19 @@ Elevator Support:
 •	If the user is blind, there are Braille characters indicating what action that button does
 
 Feedback:
-•	Only the floor buttons light up when selecting
+•	Only the floor buttons light up when selected
 •	The elevator makes a "ding" sound when it has reached the user's floor
 •	The alarm button produces an "alarm" sound
 •	The elevator doors open or close when holding the related door button
+•	The elevator displays the current floor number
 
 Common Mistakes:
-•	Accidentally pushing the wrong direction button when calling the elevator and not fixing it
-•	Accidentally pressing the wrong floor button and not fixing it
-•	Trying to clear the input but pressing the button with the "X" image
+•	Accidentally pushing the wrong direction button when calling the elevator and not correcting it
+•	Accidentally pressing the wrong floor button and not correcting it
+•	Trying to clear the input by pressing the button with the "X" image
 
 Improvements:
-•	Get rid of floor buttons, and put in a keypad
+•	Replace individual floor buttons with a numeric keypad
 •	User can clear and enter their desired floor
-•	Make every button light up when pressing it
-•	The elevator relays commands based on the action the user performed on the control panel
-
-
-
+•	Every button lights up when pressed
+•	The elevator produces voice indication based on the action the user performed on the control panel
