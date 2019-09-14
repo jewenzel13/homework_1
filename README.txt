@@ -1,5 +1,7 @@
 Wells Fargo Elevator
 
+https://github.com/jewenzel13/homework_1/blob/master/Elevator.png
+
 Issues with Current Design:
 •	The buttons are not in a single column, but more in a grid layout
 •	For the middle column buttons, it is unclear if the button to that floor is on the left hand side or right hand side
