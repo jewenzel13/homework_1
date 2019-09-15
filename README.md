@@ -3,7 +3,7 @@ Wells Fargo Elevator
 Project Screenshot:
   https://github.com/jewenzel13/homework_1/blob/master/hw1.wenzel.gif
   
-To Get a C:
+TO GET A C
 
   Image of Control Interface:
     https://github.com/jewenzel13/homework_1/blob/master/Elevator.png
@@ -16,7 +16,7 @@ To Get a C:
   •	The layout of the buttons can be confusing
   •	There is no 1st floor label
 
-To Get a B:
+TO GET A B
 
   Common Uses:
   •	Going to a desired floor that could take longer and harder to get to versus taking the stairs
@@ -64,6 +64,6 @@ To Get a B:
 
   Sketch of Solution:
 
-To Get an A:
+TO GET AN A
 
   Design for Control Interface:
