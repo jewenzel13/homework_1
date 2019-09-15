@@ -1,5 +1,8 @@
 Wells Fargo Elevator
 
+Project Screenshot:
+  https://github.com/jewenzel13/homework_1/blob/master/hw1.wenzel.gif
+  
 To Get a C:
 
   Image of Control Interface:
