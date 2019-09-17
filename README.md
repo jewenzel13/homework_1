@@ -9,6 +9,7 @@ Project Screenshot:
     https://github.com/jewenzel13/homework_1/blob/master/Elevator.png
 
   Gif of Control Interface in Operation:
+    https://github.com/jewenzel13/homework_1/blob/master/Elevator_Interface_Operation.gif
 
   Issues with Current Design:
   - The buttons are not in a single column, but more in a grid layout
@@ -26,7 +27,7 @@ Project Screenshot:
   Effective Interface:
   - The interface does make the common uses for the elevator easier for those who use it
 
-  User Interaction
+  User Interaction:
   - There are buttons on the control panel that the user can push that performs different actions
 
   Common Sequence of Events:
