@@ -6,10 +6,10 @@ Project Screenshot:
 ## TO GET A C
 
   Image of Control Interface:
-    https://github.com/jewenzel13/homework_1/blob/master/Elevator.png
+    ![Control Interface](https://github.com/jewenzel13/homework_1/blob/master/Elevator.png)
 
   Gif of Control Interface in Operation:
-    https://github.com/jewenzel13/homework_1/blob/master/Elevator_Interface_Operation.gif
+    ![Control Interface Operation](https://github.com/jewenzel13/homework_1/blob/master/Elevator_Interface_Operation.gif)
 
   Issues with Current Design:
   - The buttons are not in a single column, but more in a grid layout
@@ -64,8 +64,9 @@ Project Screenshot:
   - The elevator produces voice indication based on the action the user performed on the control panel
 
   Sketch of Solution:
-    https://github.com/jewenzel13/homework_1/blob/master/Elevator_Interface_Sketch.png
+    ![Sketch](https://github.com/jewenzel13/homework_1/blob/master/Elevator_Interface_Sketch.png)
 
 ## TO GET AN A
 
   Design for Control Interface:
+    
