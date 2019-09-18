@@ -64,7 +64,7 @@ Project Screenshot:
   - The elevator produces voice indication based on the action the user performed on the control panel
 
   Sketch of Solution:
-    https://github.com/jewenzel13/homework_1/blob/master/Elevator_Interface_Sketch.png
+    ![Sketch](https://github.com/jewenzel13/homework_1/blob/master/Elevator_Interface_Sketch.png)
 
 ## TO GET AN A
 
