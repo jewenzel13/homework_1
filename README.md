@@ -6,7 +6,7 @@ Project Screenshot:
 ## TO GET A C
 
   Image of Control Interface:
-    https://github.com/jewenzel13/homework_1/blob/master/Elevator.png
+    ![Control Interface](https://github.com/jewenzel13/homework_1/blob/master/Elevator.png)
 
   Gif of Control Interface in Operation:
     https://github.com/jewenzel13/homework_1/blob/master/Elevator_Interface_Operation.gif
