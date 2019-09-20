@@ -1,7 +1,7 @@
 # Wells Fargo Elevator
 
 Project Screenshot:
-  ![Project Screenshot](https://github.com/jewenzel13/homework_1/blob/master/hw1.wenzel.gif)
+  ![Project Screenshot](hw1.wenzel.gif)
   
 ## TO GET A C
 
@@ -9,7 +9,7 @@ Project Screenshot:
     ![Control Interface](Elevator.png)
 
   Gif of Control Interface in Operation:
-    ![Control Interface Operation](https://github.com/jewenzel13/homework_1/blob/master/Elevator_Interface_Operation.gif)
+    ![Control Interface Operation](Elevator_Interface_Operation.gif)
 
   Issues with Current Design:
   - The buttons are not in a single column, but more in a grid layout
@@ -64,7 +64,7 @@ Project Screenshot:
   - The elevator produces voice indication based on the action the user performed on the control panel
 
   Sketch of Solution:
-    ![Sketch](https://github.com/jewenzel13/homework_1/blob/master/Elevator_Interface_Sketch.png)
+    ![Sketch](Elevator_Interface_Sketch.png)
 
 ## TO GET AN A
 
